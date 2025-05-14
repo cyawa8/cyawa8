@@ -1,4 +1,6 @@
-![Vincent Tan](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&width=435&lines=Hi%2C+I'm+Vincent+Tan+👋;Welcome+to+my+GitHub+Profile!)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vincent+Tan+👋;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 
 <p align="center"><strong>I'm a passionate full-stack developer who loves to create web applications and contribute to open-source projects.</strong></p>
 
