@@ -14,26 +14,9 @@
 
 ---
 
-## 🧰 Technologies & Tools
-- **Languages:** JavaScript, Go, HTML/CSS, PHP  
-- **Frameworks:** React, Express, Next.js, Laravel
-
----
-
 ## 🌐 Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vincent-richard-94b093144/)  
 - 📸 [Instagram](https://www.instagram.com/vincerth/)
-
----
-
-## 📁 My Projects
-- 🏨 [Hotel Management](https://github.com/cyawa8/Hotel-Management) – A hotel management system for room, booking, guest, and billing.
-
----
-
-## 🎉 Fun Facts
-- 📚 I enjoy reading about technology trends and innovations.  
-- 🎮 Love playing video games in my free time.
 
 ---
 
