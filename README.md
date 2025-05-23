@@ -16,19 +16,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vincent-richard-94b093144/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/vincerth/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
-
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -65,4 +52,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyawa8&theme=dracula&no-frame=true&margin-w=10" alt="Chart" />
 </p>
+
+### 🎵 Now Playing on Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=MercifulFarmer&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://open.spotify.com/user/MercifulFarmer)
+
 
