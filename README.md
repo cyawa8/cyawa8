@@ -58,3 +58,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cyawa8&theme=monokai&no-frame=true&margin-w=10" alt="Trophies" />
 </p>
+
+---
+
+## 🏆 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyawa8&theme=dracula&no-frame=true&margin-w=10" alt="Chart" />
+</p>
+
