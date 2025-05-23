@@ -53,8 +53,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyawa8&theme=dracula&no-frame=true&margin-w=10" alt="Chart" />
 </p>
 
-### 🎵 Now Playing on Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=MercifulFarmer&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://open.spotify.com/user/MercifulFarmer)
-
-
