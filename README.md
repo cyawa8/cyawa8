@@ -33,3 +33,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
+
+![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyawa8&show_icons=true&theme=radical)
+
+![Vincent's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cyawa8&theme=dracula)
+
