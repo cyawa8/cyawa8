@@ -32,14 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyawa8&show_icons=true&theme=radical" alt="Vincent's GitHub Stats" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
