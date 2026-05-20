@@ -11,7 +11,7 @@
 ## 💡 About Me
 
 - 💻 I specialize in **Frontend and Backend Development** using **React**, **Next.js**, and **Laravel**
-- 🌱 Currently learning **Golang** and **Cloud Development**
+- 🌱 Currently learning **Machine Learning** and **AI**
 - 🤝 Open to **collaboration** and **open-source contributions**
 
 ---
